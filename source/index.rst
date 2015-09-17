@@ -20,6 +20,7 @@ This guide is maintained on `github
    installing
    distributing
    additional
+   specifications/index
    projects
    glossary
    support
